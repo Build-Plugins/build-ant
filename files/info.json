@@ -1,0 +1,15 @@
+{
+    "name": "Ant",
+    "docsURL": "",
+    "source_project": "",
+    "description": "Apache Ant is a software tool that automates software processes during the building or deployment of an application. Ant uses an proprietary XML file to define build and deployment steps, which are referred to as targets in Ant. Ant is called to run the targets in the build.xml file.",
+    "specification": {
+        "categories": [],
+        "type": ""
+    },
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "publish": true
+}
