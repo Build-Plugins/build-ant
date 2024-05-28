@@ -2,7 +2,7 @@
     {
         "version": "10",
         "semver": "10.1165571",
-        "date": "2024.02.02 03:20",
+        "date": "2024.02.02 02:20",
         "file": "Ant-10.1165571.zip",
         "notes": [
             "log4j and Jettison dependency updated."
@@ -24,7 +24,7 @@
     {
         "version": "7",
         "semver": "7.752769",
-        "date": "2016.03.01 10:50",
+        "date": "2016.03.01 09:50",
         "file": "Ant-7.752769.zip",
         "notes": [
             "Added RPX dependency and English translations"
@@ -35,10 +35,10 @@
     {
         "version": "6",
         "semver": "6.718259",
-        "date": "2015.12.02 09:35",
+        "date": "2015.12.02 08:35",
         "file": "Ant-6.718259.zip",
         "notes": [
-            "Remove the JVM Properties property because Ant ignores JAVA_OPTS"
+            "Remove the 'JVM Properties' property because Ant ignores JAVA_OPTS"
         ],
         "supports": "",
         "SORT_VERSION": "0000000600718259"
@@ -46,7 +46,7 @@
     {
         "version": "3",
         "semver": "3.630731",
-        "date": "2015.02.04 10:05",
+        "date": "2015.02.04 09:05",
         "file": "Ant-3.630731.zip",
         "notes": [
             "Updated plugin to use plugin utility scripts."
@@ -68,7 +68,7 @@
     {
         "version": "1",
         "semver": "1.349395",
-        "date": "2013.02.27 15:09",
+        "date": "2013.02.27 14:09",
         "file": "Ant-1.349395.zip",
         "notes": [
             "Loading the Ant plugin will give users access to the Ant Job steps for use when designing the deployment job."
